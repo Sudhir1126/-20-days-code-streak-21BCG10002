@@ -7,4 +7,4 @@ function factorial(n)
     }
     console.log(fact);
 }
-factorial(45);
+factorial(7);
