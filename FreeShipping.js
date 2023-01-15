@@ -3,9 +3,9 @@ function freeShipping(order) {
     for (let key in order){
       total += order[key];
     }
-    if(total > 50) 
+    if(total > 10000) 
      console.log(true);
     else 
     console.log(false);
   }
-  freeShipping({"Laptop":498.9});
+  freeShipping({"Laptop":49890});
