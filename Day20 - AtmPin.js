@@ -10,4 +10,4 @@ function validatePIN(pin) {
 }
 	console.log(false);
 }
-validatePIN("@,1,3,4");
+validatePIN("@134");
